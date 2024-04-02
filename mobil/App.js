@@ -1,10 +1,10 @@
 /*
 * File: app.js
 * Author: Németh Angéla
-* Copyright: 2023, Németh Angéla
+* Copyright: 2024, Németh Angéla
 * Group: Szoft 2-1 E
 * Date: 2024-04-02
-* Github: https://github.com/NemethAngela/
+* Github: https://github.com/NemethAngela/Tanulok
 * Licenc: GNU GPL
 */
 
